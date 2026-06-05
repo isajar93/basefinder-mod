@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.h4ck3r.basefinder.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["CompatMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
